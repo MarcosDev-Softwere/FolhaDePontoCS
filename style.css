@@ -1,0 +1,67 @@
+
+    /* Estilos gerais para o corpo da página */
+    /* General styles for the body of the page */
+    body {
+        margin: 20px;
+        padding: 20px;
+        font-family: Arial, sans-serif;
+    }
+    /* Estilo para elementos com a classe "urgent" */
+    /* Style for elements with the "urgent" class */
+    .urgent {
+        color: red;
+    }
+    /* Estilo para elementos com a classe "item" */
+    /* Style for elements with the "item" class */
+    .item {
+        margin-bottom: 10px;
+    }
+    /* Estilo para a tag "footer" */
+    /* Style for the "footer" tag */
+    footer {
+        background-color: black;
+        padding: 10px;
+        text-align: center;
+    }
+    /* Estilo para links dentro do rodapé */
+    /* Style for links within the footer */
+    footer a {
+        margin: 0 10px;
+        color: white;
+        text-decoration: none;
+    }
+    /* Efeito de hover para links dentro do rodapé */
+    /* Hover effect for links within the footer */
+    footer a:hover {
+        color: #ddd;
+    }
+    /* Estilo para imagens */
+    /* Style for images */
+    img {
+        border-radius: 50%;
+        border: 2px solid chartreuse;
+    }
+    /* Estilo para a tag "footer" */
+    /* Style for the "footer" tag */
+    footer {
+        color: chartreuse;
+    }
+    /* Estilos para cabeçalhos (h1, h2, h3) */
+    /* Styles for headers (h1, h2, h3) */
+    h1 {
+        margin: 20px;
+    }
+
+    h2 {
+        margin: 20px;
+    }
+
+    h3 {
+        margin: 20px;
+    }
+    /* Estilo para a tag "date" */
+    /* Style for the "date" tag */
+    date {
+        margin: 20px;   
+    }
+
